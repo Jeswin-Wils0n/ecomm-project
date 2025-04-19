@@ -1,4 +1,4 @@
-# Forever - Ecommerce Platform
+# Ecommerce Platform
 
 A full-stack ecommerce platform with user and admin interfaces built using React, Node.js, and MongoDB.
 
